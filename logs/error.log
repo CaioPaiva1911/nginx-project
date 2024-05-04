@@ -1,0 +1,16 @@
+2024/04/29 21:02:23 [error] 10108#5812: *1 CreateFile() "D:\projetos\alura\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/04/29 21:18:35 [notice] 4192#10948: signal process started
+2024/04/29 21:19:46 [notice] 8564#3548: signal process started
+2024/04/29 21:22:04 [notice] 12424#11032: signal process started
+2024/05/02 21:20:37 [error] 8036#3152: *1 CreateFile() "D:\projetos\alura\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/05/02 21:24:19 [error] 8036#3152: *3 CreateFile() "D:\projetos\alura\nginx/html/error" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /error HTTP/1.1", host: "localhost"
+2024/05/02 21:32:38 [notice] 6528#1272: signal process started
+2024/05/02 21:32:49 [error] 2960#6808: *5 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:80/", host: "localhost"
+2024/05/02 21:32:51 [alert] 2960#6808: *1029 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "localhost"
+2024/05/02 21:38:00 [notice] 1256#4836: signal process started
+2024/05/04 11:34:16 [error] 11316#8188: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:80/", host: "localhost"
+2024/05/04 11:34:16 [alert] 11316#8188: *1025 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:80/", host: "localhost"
+2024/05/04 11:34:17 [alert] 11316#8188: *2047 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.0", upstream: "http://127.0.0.1:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2024/05/04 11:34:32 [notice] 10548#5688: signal process started
+2024/05/04 11:38:00 [notice] 8928#3544: signal process started
+2024/05/04 11:39:43 [notice] 4944#11580: signal process started
