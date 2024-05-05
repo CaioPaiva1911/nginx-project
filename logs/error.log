@@ -14,3 +14,9 @@
 2024/05/04 11:34:32 [notice] 10548#5688: signal process started
 2024/05/04 11:38:00 [notice] 8928#3544: signal process started
 2024/05/04 11:39:43 [notice] 4944#11580: signal process started
+2024/05/04 14:35:40 [notice] 11324#6152: signal process started
+2024/05/04 14:39:07 [notice] 12960#6764: signal process started
+2024/05/04 14:44:04 [notice] 9576#7068: signal process started
+2024/05/04 16:00:23 [notice] 5472#12816: signal process started
+2024/05/04 21:22:59 [notice] 6640#6684: signal process started
+2024/05/04 21:22:59 [error] 6640#6684: invalid PID number "" in "D:\projetos\alura\nginx/logs/nginx.pid"
